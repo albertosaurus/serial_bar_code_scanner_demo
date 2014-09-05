@@ -1,6 +1,6 @@
 # Serial Port Scanner Demo
 
-This is the demo application that shows how to push messages from a Honeywell bar code scanner configured to run as a serial device.
+This is the demo Ruby on Rails application running on torquebox that shows how to push messages from a Honeywell bar code scanner configured to run as a serial device.
 Note that it has only been tested with a Vuquest 3310g.
 
 ## How to install
